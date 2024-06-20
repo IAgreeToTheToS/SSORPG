@@ -1,5 +1,5 @@
 let color = ['', "blue", "black", "white", "green", "purple", "pink", "red", "yellow"]
-window.addEventListener("click", function() {
+window.addEventListener("keyup", function() {
   let helpMyEyes = window.createElement("div");
   helpMyEyes.width = 100%;
   helpMyEyes.height = 100%;
